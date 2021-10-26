@@ -1,8 +1,6 @@
 <h1 align = "center"> Hola 👋, soy Ayelén </h1>
 <h3 align = "center"> Desarrolladora Full Stack en MERN y aplicaciones móviles </h3>
 
-- 📫 **montenegroayelen20@gmail.com**
-
 <!--
 **ayelenMontenegro/ayelenMontenegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
